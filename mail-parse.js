@@ -10,8 +10,7 @@
   limitations under the License.
 */
 
-module.exports = function (RED) {
-    var RED = require(process.env.NODE_RED_HOME+"/red/red");    
+module.exports = function (RED) {   
     var util = require('util');
     var fs = require('fs');
 
