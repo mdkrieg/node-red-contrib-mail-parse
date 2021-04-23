@@ -11,7 +11,7 @@
 */
 
 module.exports = function (RED) {   
-    var util = require('util');
+    //var util = require('util');
     var fs = require('fs');
 
     function mailparse(config) {
