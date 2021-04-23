@@ -1,3 +1,12 @@
+MDK FORK
+===========================
+
+Applying the fix that worked for me, RE: this Issue comment
+https://github.com/alessh/node-red-contrib-mail-parse/issues/1#issuecomment-784394676
+
+
+all below is from original repo
+
 node-red-contrib-mail-parse
 ===========================
 
